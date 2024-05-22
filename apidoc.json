@@ -1,0 +1,19 @@
+{
+    "name": "Calculator API",
+    "version": "1.0.0",
+    "description": "API для выполнения основных арифметических операций",
+    "title": "Calculator API Documentation",
+    "url": "http://localhost:3000",
+    "sampleUrl": "http://localhost:3000",
+    "header": {
+      "title": "Introduction",
+      "content": "<h1>Welcome to the Calculator API</h1><p>This API allows you to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.</p>"
+    },
+    "footer": {
+      "title": "Footer",
+      "content": "<p>Calculator API documentation footer</p>"
+    },
+    "template": {
+      "forceLanguage": "ru"
+    }
+  }
